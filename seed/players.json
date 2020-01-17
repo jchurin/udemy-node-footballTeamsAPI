@@ -1,0 +1,35 @@
+  {
+    "firstName": "Juan",
+    "lastName": "Churin",
+    "position": "qb",
+    "age": 24,
+    "team": "nyg"
+  }
+  {
+    "firstName": "Mario",
+    "lastName": "Ahumada",
+    "position": "qb",
+    "age": 38,
+    "team": "nep"
+  }
+  {
+    "firstName": "David",
+    "lastName": "Lopez",
+    "position": "qb",
+    "age": 27,
+    "team": "nyg"
+  }
+  {
+    "firstName": "Jorge",
+    "lastName": "Luzuriaga",
+    "position": "qb",
+    "age": 44,
+    "team": "nep"
+  }
+  {
+    "firstName": "Ernesto",
+    "lastName": "Cala",
+    "position": "qb",
+    "age": 54,
+    "team": "nyg"
+  }
